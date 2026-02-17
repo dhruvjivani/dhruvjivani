@@ -12,13 +12,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 About Me
 
 ```yaml
 name: Dhruv Jivani
-located_in: India 🇮🇳
+located_in: Canada 🇮🇳
 current_focus: Mastering Laravel
 pronouns: he/him
 
