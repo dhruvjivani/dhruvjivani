@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dhruv%20Jivani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20MERN%20Stack&descAlignY=58&descAlign=50&descSize=20&descColor=a78bfa"/>
+![Logo](https://media.licdn.com/dms/image/v2/D4E16AQG4V4EcSQf4OQ/profile-displaybackgroundimage-shrink_350_1400/B4EZuQuRJLGkAY-/0/1767659607325?e=1772668800&v=beta&t=_nwIfsBy8CmtkckD62FFDLfXmVuEaerpRzMivR5OTDg)
 
 </div>
 
