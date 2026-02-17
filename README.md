@@ -1,4 +1,4 @@
-![Logo](https://media.licdn.com/dms/image/D4D16AQH4iP1HUJaLVg/profile-displaybackgroundimage-shrink_350_1400/0/1704117272920?e=1715212800&v=beta&t=PWLnTHO2o4fSaQHe6tI6YgCpUNklcqUKYk1gIJX8l2U)
+![Logo]([https://media.licdn.com/dms/image/D4D16AQH4iP1HUJaLVg/profile-displaybackgroundimage-shrink_350_1400/0/1704117272920?e=1715212800&v=beta&t=PWLnTHO2o4fSaQHe6tI6YgCpUNklcqUKYk1gIJX8l2U](https://media.licdn.com/dms/image/v2/D4E16AQG4V4EcSQf4OQ/profile-displaybackgroundimage-shrink_350_1400/B4EZuQuRJLGkAY-/0/1767659607325?e=1772668800&v=beta&t=_nwIfsBy8CmtkckD62FFDLfXmVuEaerpRzMivR5OTDg))
 <h1 align="center">Hi 👋, I'm Dhruv Jivani</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
